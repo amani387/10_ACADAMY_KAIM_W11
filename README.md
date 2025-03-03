@@ -57,7 +57,7 @@ This repository contains the implementation and findings from the **Week 11 chal
 ## ⚙️ How to Run the Project
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-repo/week11-challenge.git
+   git clone [https://github.com/your-repo/week11-challenge.git](https://github.com/amani387/10_ACADAMY_KAIM_W11.git)
    cd week11-challenge
    ```
 2. **Install dependencies**:
